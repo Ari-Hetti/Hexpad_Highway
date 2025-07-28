@@ -5,20 +5,20 @@ A small macropad with 6  switches, 1 rotary encoder and 1 oled display encased i
 @Ari H. U08QRTADZTJ
 
 # Schematic
-<img width="1136" height="634" alt="Hackclub Highway Project  - Hexpad Schematic" src="https://github.com/user-attachments/assets/7169a149-cd0b-4186-9398-4fd73cee1296" />
+<img width="1136" height="634" alt="Hackclub Highway Project  - Hexpad Schematic Final" src="https://github.com/user-attachments/assets/2f9406c7-256a-4bc0-b857-8b4b983b154a" />
 
 # PCB
-<img width="1085" height="497" alt="Hackclub Highway Project  - Hexpad PCB" src="https://github.com/user-attachments/assets/5d801adf-5564-443c-aec3-4e5c4157e74b" />
+<img width="964" height="420" alt="Hackclub Highway Project  - Hexpad PCB Final" src="https://github.com/user-attachments/assets/a0667e18-bb0f-4e48-ac34-d8a08742738b" />
 
 # 3D View
 ## Front :
-<img width="1286" height="555" alt="Hackclub Highway Project  - Hexpad 3d Front" src="https://github.com/user-attachments/assets/4b10a212-0a5d-4253-bb3d-83f394e3065c" />
+<img width="970" height="439" alt="Hackclub Highway Project  - Hexpad 3d Front Final" src="https://github.com/user-attachments/assets/c0e8351b-06f9-4e7b-9f9f-1ca6b0a7a29c" />
 
 ## Back :
-<img width="1374" height="661" alt="Hackclub Highway Project  - Hexpad 3d Back" src="https://github.com/user-attachments/assets/f0dc0ab7-d027-45c4-9db8-36f111343a7f" />
+<img width="1016" height="442" alt="Hackclub Highway Project  - Hexpad 3d Back Final" src="https://github.com/user-attachments/assets/a716e37e-47e6-4c3d-9f82-23d78a5979fb" />
 
 # CAD
-<img width="1113" height="777" alt="Screenshot 2025-07-13 183547" src="https://github.com/user-attachments/assets/9b49d372-f3f3-40c5-8a04-b61c33317664" />
+<img width="1113" height="777" alt="Hackclub Highway Project - Hexpad CAD Final" src="https://github.com/user-attachments/assets/c8047544-2290-40f7-b37d-d1297a1cd80f" />
 
 # BOM
 - 1 Seeed XIAO RP2040
@@ -29,4 +29,3 @@ A small macropad with 6  switches, 1 rotary encoder and 1 oled display encased i
 - 6 SK6812 MINI-E LEDs
 - 4 M3x16mm screws
 - 4 M3x5mx4mm heatset inserts
-
