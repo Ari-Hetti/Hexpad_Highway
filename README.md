@@ -14,6 +14,10 @@ A small macropad with 6  switches, 1 rotary encoder and 1 oled display encased i
 - 4 M3x16mm screws
 - 4 M3x5mx4mm heatset inserts
 
+| Schematic | PCB | Assembled (front)| Assembled (back |  
+|-----------|-----|-----------|----------------| 
+|<img width="300" height="634" alt="Hackclub Highway Project  - Hexpad Schematic Final" src="https://github.com/user-attachments/assets/2f9406c7-256a-4bc0-b857-8b4b983b154a" /> | 
+
 # Schematic
 <img width="1136" height="634" alt="Hackclub Highway Project  - Hexpad Schematic Final" src="https://github.com/user-attachments/assets/2f9406c7-256a-4bc0-b857-8b4b983b154a" />
 
