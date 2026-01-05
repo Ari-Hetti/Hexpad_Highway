@@ -21,4 +21,4 @@ A small macropad with 6  switches, 1 rotary encoder and 1 oled display encased i
 # Pictures
 | Schematic | PCB | 3D Front | 3D Back | Assemble CAD |  
 |------------------|--------------------|-------------|-------| --------|
-| ![Schematic](/Assets/Hackclub%20Highway%20Project%20%20-%20Hexpad%20Schematic%20Final.png) | ![PCB](/Assets/Hackclub%20Highway%20Project%20%20-%20Hexpad%20PCB%20Final.png) | ![3D Front](/Assets/Hackclub%20Highway%20Project%20%20-%20Hexpad%203d%20Front%20Final.png) | ![3D Back](/Assets/Hackclub%20Highway%20ProjecHexpad%203d%20Back%20Final.png) | ![Assembled CAD](/Assets/Hackclub%20Highway%20Project%20-%20Hexpad%20CAD%20Final.png) |  
+| ![Schematic](/Assets/Hackclub%20Highway%20Project%20%20-%20Hexpad%20Schematic%20Final.png) | ![PCB](/Assets/Hackclub%20Highway%20Project%20%20-%20Hexpad%20PCB%20Final.png) | ![3D Front](/Assets/Hackclub%20Highway%20Project%20%20-%20Hexpad%203d%20Front%20Final.png) | ![3D Back](/Assets/Hackclub%20Highway%20ProjecHexpad%203d%20Back%20Final.png) | ![Assembled CAD](/Assets/Hackclub%20Highway%20Project%20Hexpad%20Final%20Assembly.png) |  
