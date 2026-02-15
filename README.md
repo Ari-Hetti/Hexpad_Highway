@@ -13,8 +13,8 @@ A small macropad with 6  switches, 1 rotary encoder and 1 oled display encased i
 | SK6812 MINI-E LEDs | 6x |    
 | EC11 Rotary encoders | 1x |  
 | 0.91 inch OLED display | 1x |  
-| M3x16mm screws (0.91') | 1x|
-| M3x5mx4mm heatset inserts | 1x |  
+| M3x16mm screws (0.91') | 4x|
+| M3x5mx4mm heatset inserts | 4x |  
 | PCB | 1x |
 | Case | 1x |
 
